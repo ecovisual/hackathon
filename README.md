@@ -11,5 +11,5 @@ After you finish, go to github and send a pull request to master.\
 Then approve your pull request.\
 Then do the following commands:
 
-git checkout master - **switch to master**
+git checkout master - **switch to master**\
 git pull origin master - **get the latest vesion of master**\
